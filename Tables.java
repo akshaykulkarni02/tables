@@ -1,5 +1,3 @@
-package com.akshay.allprograms.tables;
-
 import java.util.Scanner;
 
 public class Tables {
